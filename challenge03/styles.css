@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: crimson;
+}
+
+.content {
+  max-width: 80%;
+  padding: 3em;
+}
+h1 {
+  padding-bottom: 1em;
+}
+button {
+  margin-top: 1.5em;
+  padding: 0.25em;
+  border-radius: 10px;
+  border-color: antiquewhite;
+}
+button:hover {
+  background-color: rgba(244, 215, 250, 0.719);
+}
